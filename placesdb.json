@@ -1,0 +1,84 @@
+{
+  "add": [
+    {
+      "name": "Brazil",
+      "local": "Balneario Camboriu",
+      "meta": "01/2022",
+      "flag": "https://flagcdn.com/br.svg",
+      "translation": "Brasil",
+      "id": 1
+    },
+    {
+      "name": "Bolivia (Plurinational State of)",
+      "local": "Salar de Uyuni",
+      "meta": "02/2022",
+      "flag": "https://flagcdn.com/bo.svg",
+      "translation": "Bolívia",
+      "id": 2
+    },
+    {
+      "name": "Brazil",
+      "local": "Fortaleza",
+      "meta": "03/2022",
+      "flag": "https://flagcdn.com/br.svg",
+      "translation": "Brasil",
+      "id": 3
+    },
+    {
+      "name": "United States of America",
+      "local": "Nova York",
+      "meta": "04/2022",
+      "flag": "https://flagcdn.com/us.svg",
+      "translation": "Estados Unidos",
+      "id": 4
+    },
+    {
+      "name": "United States of America",
+      "local": "Filadélfia",
+      "meta": "05/2022",
+      "flag": "https://flagcdn.com/us.svg",
+      "translation": "Estados Unidos",
+      "id": 5
+    },
+    {
+      "name": "United Arab Emirates",
+      "local": "Dubai",
+      "meta": "06/2022",
+      "flag": "https://flagcdn.com/ae.svg",
+      "translation": "Emirados árabes Unidos",
+      "id": 6
+    },
+    {
+      "name": "France",
+      "local": "Paris",
+      "meta": "07/2022",
+      "flag": "https://flagcdn.com/fr.svg",
+      "translation": "França",
+      "id": 7
+    },
+    {
+      "name": "Mexico",
+      "local": "Cancún",
+      "meta": "08/2022",
+      "flag": "https://flagcdn.com/mx.svg",
+      "translation": "México",
+      "id": 8
+    },
+    {
+      "name": "Italy",
+      "local": "Veneza",
+      "meta": "09/2022",
+      "flag": "https://flagcdn.com/it.svg",
+      "translation": "Itália",
+      "id": 9
+    },
+    {
+      "name": "United States of America",
+      "local": "Disney World",
+      "meta": "20/2022",
+      "flag": "https://flagcdn.com/us.svg",
+      "translation": "Estados Unidos",
+      "id": 10
+    }
+  ]
+}
